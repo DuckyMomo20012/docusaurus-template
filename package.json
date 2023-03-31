@@ -1,5 +1,5 @@
 {
-  "name": "docs",
+  "name": "docusaurus-template",
   "version": "0.0.0",
   "license": "MIT",
   "private": true,
@@ -13,8 +13,7 @@
     "serve": "docusaurus serve",
     "write-translations": "docusaurus write-translations",
     "write-heading-ids": "docusaurus write-heading-ids",
-    "prepare": "husky install",
-    "cm": "cz"
+    "prepare": "husky install"
   },
   "dependencies": {
     "@docusaurus/core": "2.2.0",
